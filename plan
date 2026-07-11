@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Building Trust Construction</title>
+    <link rel="stylesheet" href="home.css" />
+  </head>
+  <body>
+    <header class="hero">
+
+        <nav class="nav-bar">
+        <div class="brand">Building Trust Construction Company</div>
+        <p class="eyebrow">Reliable concrete. Honest service.</p>
+        <ul class="nav-links">
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="hero-content">
+        <div>
+          
+          <h1>Building Trust, Quality That Lasts</h1>
+          <p class="hero-text">
+            We create durable concretes, do outside works like fencing, laying
+             and carefully manage renovations with a focus on quality, safety, and client satisfaction.
+          </p>
+          <div class="hero-buttons">
+            <a class="btn btn-primary" href="#contact">Get a Free Estimate</a>
+            <a class="btn btn-secondary" href="#services">Explore Services</a>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <h3>Why choose us?</h3>
+          <ul>
+            <li>Experienced project management</li>
+            <li>Transparent pricing and timelines</li>
+            <li>Premium craftsmanship</li>
+          </ul>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="stats">
+        <div>
+          <strong>10+ Years</strong>
+          <span>of experience</span>
+        </div>
+        <div>
+          <strong>98%</strong>
+          <span>client satisfaction</span>
+        </div>
+      </section>
+
+      <section id="about" class="section about">
+        <h2>About Our Company</h2>
+        <p>
+          Building Trust Construction Company is committed to delivering exceptional concrete products for customers. From planning to finishing your project, our team ensures every detail is handled with care.
+        </p>
+      </section>
+
+      <section id="services" class="section services">
+        <h2>Our Services</h2>
+        <div class="card-grid">
+          <article class="card">
+            <h3>Fencing</h3>
+            <p>We fence your home with chain links of different guages to best suit your need.</p>
+          </article>
+          <article class="card">
+            <h3>Outside Projects</h3>
+            <p>Professional production of concrete products from your desired location.</p>
+          </article>
+          <article class="card">
+            <h3>Renovations</h3>
+            <p>Renovation of compound bricks, pavers, and fences.</p>
+          </article>
+          <article class="card">
+            <h3>Project Management</h3>
+            <p>End-to-end coordination to keep projects efficient, well-organized, and on schedule.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="contact" class="section contact">
+        <h2>Contact Us</h2>
+        <div class="contact-wrap">
+          <div>
+            <p><strong>☏</strong> +256 779007670</p>
+            <p><strong>✉</strong> rubangangeyoeasterisaac@gmail.com</p>
+            <p><strong>Address:</strong> Gulu Baptist Church, Gulu-Kampala Highway</p>
+          </div>
+          <form class="contact-form" action="mailto:rubangangeyoeasterisaac@gmail.com" method="post" enctype="text/plain">
+            <input type="text" placeholder="Your Name" />
+            <input type="email" placeholder="Your Email" />
+            <textarea placeholder="Tell us about your project"></textarea>
+            <button type="submit" value="submit">Send Message</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>© 2026 Building Trust Construction Company. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
